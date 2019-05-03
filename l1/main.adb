@@ -13,6 +13,7 @@ procedure Main is
          x: Integer;
          y: Integer;
          operation: op;
+         result: Integer;
     end record;
 
     task type menager;
